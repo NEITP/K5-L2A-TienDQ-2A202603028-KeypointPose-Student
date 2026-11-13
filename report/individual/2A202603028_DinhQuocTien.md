@@ -145,7 +145,7 @@ Các [CẢNH BÁO] còn giữ nguyên và lý do:
 
 4. Một đoạn JSON xuất của một người:
 
-   ![JSON export](images/json_export.jpg)
+   ![JSON export](images/label_person.jpg)
 
 Nguồn ảnh: COCO val2017 / Wikimedia Commons.
 
