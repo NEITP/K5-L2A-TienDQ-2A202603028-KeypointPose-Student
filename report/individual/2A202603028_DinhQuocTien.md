@@ -5,7 +5,7 @@
 - Họ tên: Đinh Quốc Tiến
 - MSSV: 2A202603028
 - Email: 26ai.tiendq@vinuni.edu.vn
-- Link repository: [BỔ SUNG SAU KHI CÓ LINK GITHUB]
+- Link repository: https://github.com/NEITP/K5-L2A-TienDQ-2A202603028-KeypointPose-Student.git
 - Phiên bản CVAT (Help → About): Chưa xác định
 - Máy: Windows 11 · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): Có
